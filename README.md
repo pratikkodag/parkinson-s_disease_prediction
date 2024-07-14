@@ -7,6 +7,7 @@ Support Vector Classifier (SVC)
 Voting Classifier
 Decision Tree
 Logistic Regression
+
 Project Objectives
 
 The main objectives of this project are to:
