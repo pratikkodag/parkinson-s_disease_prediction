@@ -1,17 +1,21 @@
 # parkinson-s_disease_prediction
   Parkinson's Disease Prediction
-Project Description
+  
+Project Description:-
+
 This repository contains a project aimed at predicting Parkinson's Disease using various machine learning models. The following classifiers have been utilized:
 
 Support Vector Classifier (SVC)
+
 Voting Classifier
+
 Decision Tree
+
 Logistic Regression
 
-Project Objectives
+Project Objectives:-
 
-The main objectives of this project are to:
-
+The main objectives of this project are to
 Implement and compare the performance of different machine learning models in predicting Parkinson's Disease.
 
 Measure the accuracy scores of the models.
